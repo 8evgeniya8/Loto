@@ -32,7 +32,7 @@ public class Loto {
         int start = 0;
         int start2 = 0;
         int end = array1.length;
-        int end2 = array1.length;
+        int end2 = array2.length;
         while (boo == true) {
             boo = false;
             for (int i = start; i < end - 1; ++i) {
